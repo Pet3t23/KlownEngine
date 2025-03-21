@@ -1,1 +1,1 @@
-# KlownEngine-20250321T121421Z-001
+Este proyecto reúne el contenido de las clases impartidas en la materia de Arquitectura de Motores Gráficos. La finalidad del curso es desarrollar un motor gráfico utilizando DirectX, con el propósito de ofrecer un entorno capaz de renderizar modelos y objetos 3D en tiempo real dentro de una ventana.
